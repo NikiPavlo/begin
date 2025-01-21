@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(238, 255, 253);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header{
+    text-align: center;
+}
+
+.avatar{
+    width: 300px;
+    height: 300px;
+}
+.header__title{
+    font-size: 28px;
+
+}
+.header__subtitle{
+    color: rgb(63, 63, 255);
+
+}
+main{
+    border: 2px solid darkcyan;
+    text-align: center;
+}
+
+.skills ol{
+    list-style: none;
+}
+
+.separator{
+    width: 50%;
+    height: 3px;
+    background-color: aquamarine;
+}
+
+.video{
+    width: 700px;
+    height: 500px;
+    border: none;
+}
+
+.gamesId{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.gamesId td,
+.gamesId th {
+border: 1px solid black;
+padding: 10px;
+}
+
+.phrase{
+font-size: 32px;
+}
+
+.form{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.form_control{
+    width: 100%;
+
+}
+
+.form_button{
+    display: block;
+    margin: 0 auto;
+}
+
+.control-text {
+    width: 70%;
+}
+
+.footer{
+    background-color: rgb(255, 196, 205);
+    height: 100px;
+    text-align: center;
+    padding-top: 30px;
+}
